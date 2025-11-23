@@ -87,6 +87,18 @@ There is a workflow for each managed signature that is triggered when that signa
 If there is the need to add a new signature you need a workflow that manages that signature.
 
 ## Usage
+###### Prerequisites
+Use NodeJS v18 or up with:
+```shell
+nvm use 20
+```
+
+Then install dependencies with:
+```shell
+cd email-signatures-bac
+npm install
+```
+
 ###### Adding a new signature
 - Create the secrets in the organization N_NAME, N_EMAIL, N_PHONE and N_IPHONE, which are the name, the email, the phone 
   and the phone with international prefix (without spaces to generate a proper `mailto:` link), where N is the initial 
