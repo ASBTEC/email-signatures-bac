@@ -17,7 +17,7 @@ Estàs rebent aquest correu perquè una nova signatura del BAC per a l'email ${e
 
 Si has rebut més d'un correu d'aquest tipus fes servir el contingut de l'últim mail per a actualitzar la firma, doncs serà la versió més actualitzada. Pots borrar la resta.
 
-En aquest vídeo https://youtu.be/v4Mi0DMAwQU podràs trobar instruccions sobre com instalar la firma al teu compte de correu Gmail.
+En aquest vídeo https://drive.google.com/file/d/1BM0HlwtVvdXZP9xUz7UrHKMz4nRKLxjZ/view?usp=sharing podràs trobar instruccions sobre com instalar la firma al teu compte de correu Gmail.
 En realitat, és el tutorial per a les firmes d'ASBTEC, on s'explica com configurar la firma però amb les firmes d'ASBTEC, tot i que el procediment en essència és el mateix.
 Recorda que només podràs veure el vídeo si estàs loguejat a YouTube amb el teu compte d'ASBTEC.
 
